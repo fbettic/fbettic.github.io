@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.2153a5b4.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.2153a5b4.js.map": "/static/js/main.2153a5b4.js.map"
+    "main.css": "/portfolio/static/css/main.24600219.css",
+    "main.js": "/portfolio/static/js/main.3f5f1cf3.js",
+    "static/media/curriculum.pdf": "/portfolio/static/media/curriculum.1cb24033672fa5b114f3.pdf",
+    "static/media/drum-machine-v2.png": "/portfolio/static/media/drum-machine-v2.e131d895deb112083867.png",
+    "static/media/clock-25-5-v2.png": "/portfolio/static/media/clock-25-5-v2.0f3a464b11a7e0b6f00e.png",
+    "static/media/calculator-v2.png": "/portfolio/static/media/calculator-v2.f6bdc0efcf748e88404a.png",
+    "static/media/logo-red.svg": "/portfolio/static/media/logo-red.ea8b49dd4e4834f08beed599cccd2323.svg",
+    "index.html": "/portfolio/index.html",
+    "main.24600219.css.map": "/portfolio/static/css/main.24600219.css.map",
+    "main.3f5f1cf3.js.map": "/portfolio/static/js/main.3f5f1cf3.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2153a5b4.js"
+    "static/css/main.24600219.css",
+    "static/js/main.3f5f1cf3.js"
   ]
 }
