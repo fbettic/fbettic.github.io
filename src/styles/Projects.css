@@ -1,0 +1,29 @@
+#projects{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  
+}
+
+
+
+.project-card{
+  margin: 0.5rem;
+}
+
+#project-list {
+  width: 100%;
+  height: 100%;
+}
+
+.project-image {
+  width: 100%;
+  height: 100%;
+}
+
+
+.project-header {
+  text-align: center;
+  font-size: 1.2rem;
+  margin-top: 0.5rem;
+}
+
